@@ -1,0 +1,43 @@
+body{
+    padding-top: 100px;
+    background: #CECECE;
+    background: -moz-linear-gradient(left, #CECECE 0%, #3A8BFF 50%, #C5C5C5 100%);
+    background: -webkit-linear-gradient(left, #CECECE 0%, #3A8BFF 50%, #C5C5C5 100%);
+    background: linear-gradient(to right, #CECECE 0%, #3A8BFF 50%, #C5C5C5 100%);
+    background-size: cover; /* This will ensure the gradient covers the entire background */
+    min-height: 100vh; /* Ensure that the background covers the entire viewport height */
+
+
+}
+
+#container{
+    background-color:white;
+    border: solid thin;
+    margin: 0 250px;
+    padding: 15px;
+    text-decoration: none;
+}
+
+#receiptTable{
+    margin: 0 auto;    
+}
+
+.total-row{
+    text-align: center;
+}
+
+#no-line-spacing{
+    line-height: 0;
+}
+
+.printed-name {
+    text-align: center;
+    border-bottom: 1px solid black;
+    margin-bottom: 10px;
+    padding-bottom: 2px; /* Adjust as needed */
+}
+.signature-line {
+    width: 50%; /* Adjust the width of the signature line */
+    border-bottom: 1px dotted black;
+    margin: 0 auto;
+}

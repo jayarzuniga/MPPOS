@@ -1,0 +1,51 @@
+#container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color:white;
+    margin:0px 150px;
+}
+
+
+#transactions-table{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color:white;
+    margin:10px 150px;
+    
+}
+
+
+
+body{
+    background: #CECECE;
+    background: -moz-linear-gradient(left, #CECECE 0%, #3A8BFF 60%, #C5C5C5 100%);
+    background: -webkit-linear-gradient(left, #CECECE 0%, #3A8BFF 60%, #C5C5C5 100%);
+    background: linear-gradient(to right, #CECECE 0%, #3A8BFF 60%, #C5C5C5 100%);
+}
+
+#userPage{
+    font-family: 'Raleway', sans-serif;
+    }
+    
+    #profile-logout{
+        padding-left: 90%;
+    }
+    
+    
+    
+    #my-navbar{
+        background-color: #4693ff2a;
+        }
+        
+    #logoutButton{
+    color: rgb(14, 51, 78);
+    font-weight: 900;
+    }
+    
+    #POSButton{
+    color: rgb(17, 124, 166);
+    font-weight: 700;
+    font-size: larger;
+    }

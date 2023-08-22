@@ -1,0 +1,49 @@
+
+body{
+    background: #CECECE;
+    background: -moz-linear-gradient(left, #CECECE 0%, #3A8BFF 50%, #C5C5C5 100%);
+    background: -webkit-linear-gradient(left, #CECECE 0%, #3A8BFF 50%, #C5C5C5 100%);
+    background: linear-gradient(to right, #CECECE 0%, #3A8BFF 50%, #C5C5C5 100%);
+}
+
+
+
+#side-design{
+width: 50%;
+height: 90%;
+padding-bottom: 100px;
+position: relative;
+display: inline-block;
+text-align: center;
+padding-left: 50px;
+margin-top: 5%;
+}
+
+
+
+#sign-in-form{
+position: relative;
+width:49%;
+height: 100%;
+display:inline-block;
+vertical-align:top;
+padding-top: 10%;
+}
+
+.heading1{
+color:aliceblue;
+text-align: end;
+}
+
+.heading2{
+text-align: left;
+font-size: larger;
+}
+
+
+
+
+
+
+
+
